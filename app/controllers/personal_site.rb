@@ -1,0 +1,2 @@
+class PersonalSite
+end
